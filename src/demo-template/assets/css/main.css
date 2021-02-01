@@ -26,42 +26,42 @@ main > div {
     color: white;
 }
 
-main > div:nth-child(1){
+.a {
     background: red;
 }
 
-main > div:nth-child(2){
+.b {
     background: green;
 }
 
-main > div:nth-child(3){
+.c {
     background: blue;
 }
 
-main > div:nth-child(4){
+.d {
     background: chocolate;
 }
 
-main > div:nth-child(5){
+.e {
     background: orange;
 }
 
-main > div:nth-child(6){
+.f {
     background: indigo;
 }
 
-main > div:nth-child(7){
+.g {
     background: maroon;
 }
 
-main > div:nth-child(8){
+.h {
     background-color:sienna ;
 }
 
-main > div:nth-child(9){
+.i {
     background: forestgreen;
 }
 
-main > div:nth-child(10){
+.j {
     background: rgb(133, 7, 218);
 }
